@@ -1,4 +1,4 @@
-# CodeAlpha Machine Learning Internship
+# CodeAlpha Data Science Internship
 
 Welcome to my Machine Learning Internship repository for **CodeAlpha**. This repository contains the projects I completed during the internship, showcasing the application of machine learning algorithms to solve real-world prediction problems.
 
